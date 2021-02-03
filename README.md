@@ -19,4 +19,4 @@ programs for resigter
 - how to open hyper link
 - [apssd](https://www.apssdc.in) 
 - [ciet collage](http://www.chalapathiengg.ac.in)
-- ![image](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.chalapathiengg.ac.in%2F&psig=AOvVaw1qo_sodmvKWzhgxN4pF8L0&ust=1612428593012000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjCh96qze4CFQAAAAAdAAAAABAD)
+- ![image](https://lh3.googleusercontent.com/proxy/AERNQAUiIxkETkd7EI34-S9rjLWMLi678VF6shgALiSyoO_CtNXPs3W57FGVXHA6MFZ_LeyCNSI2JMxHqWZR1q3ldllVl0DpaiwLyTU)
