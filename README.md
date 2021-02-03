@@ -18,5 +18,5 @@ programs for resigter
 - **bold**
 - how to open hyper link
 - [apssd](https://www.apssdc.in) 
-- [ciet collage](https://www.chalapathiengg.ac.in/)
+- [ciet collage](https://www.chalapathiengg.ac.in)
 - 
