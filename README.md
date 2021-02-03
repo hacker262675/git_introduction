@@ -12,6 +12,9 @@ this is horizontal line
 2.hockey
 3.kabaddi
 
-4.
+-tea
+-milk
+-*italic*
+-**bold**
 
 
